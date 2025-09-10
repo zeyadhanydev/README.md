@@ -97,20 +97,6 @@ const zeyad = {
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🎨 **[Portfolio Website]** | Modern, responsive portfolio showcasing my work | React, Next.js, Tailwind CSS |
-| 🛒 **[E-commerce Platform]** | Full-stack e-commerce with admin panel | MERN Stack, Stripe |
-| 📱 **[Mobile App]** | Cross-platform mobile application | React Native, Firebase |
-
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
